@@ -65,3 +65,10 @@ Acknowledges areas where further exploration, data collection, or improved metho
 From My analysis, it shows that G-rated and family-friendly films offer the highest ROI, certain genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry investment.
 ## Links For Tableau
 https://public.tableau.com/views/MovieFilmsInsights/MovieFilmsinsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+ ## Author
+Dennis Chesire
+Data Scientist | Aviation Risk Analyst
+Email:denniskipropchesire@gmail.com
+LinkedIn:https://www.linkedin.com/in/dennis-kiprop-780003294/
