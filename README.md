@@ -69,6 +69,6 @@ https://public.tableau.com/views/MovieFilmsInsights/MovieFilmsinsights?:language
 
  ## Author
 Dennis Chesire
-Data Scientist | Aviation Risk Analyst
+Data Scientist 
 Email:denniskipropchesire@gmail.com
 LinkedIn:https://www.linkedin.com/in/dennis-kiprop-780003294/
